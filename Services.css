@@ -8,6 +8,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-size: 6rem;
   margin: 285px 53px 0;
 }
 
@@ -95,6 +96,7 @@
     margin-top: 272px;
     margin-left: 87px;
     margin-right: 87px;
+    font-size: 4.5rem;
   }
 
   .u-section-1 .u-list-1 {
@@ -141,6 +143,7 @@
   .u-section-1 .u-text-1 {
     margin-left: 43px;
     margin-right: 43px;
+    font-size: 3.75rem;
   }
 
   .u-section-1 .u-list-1 {
@@ -160,8 +163,9 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: -8px;
-    margin-right: -8px;
+    font-size: 2.25rem;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-list-1 {
